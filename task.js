@@ -5,3 +5,4 @@ let student ={
     smester: 8,
     age:22
 }
+console.log(saniya.dep)
