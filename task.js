@@ -5,4 +5,4 @@ let student ={
     smester: 8,
 
 }
-console.log(saniya.name)
+console.log(saniya.name.length)
